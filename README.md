@@ -24,6 +24,11 @@ to suit your TV's actual pairing key.  This will eliminate the pairing key acqui
 ## Windows users:
 You can avoid the black console window if you change the "py" file extension to "pyw".
 
+## Newer LG Smart TV (year 2012) models:
+Benke Tamás says: "I wanted to use your lgcommander script, but i realized that its not working with lg 2012 smart tv series. I made some changes, now its working with the new series, but lg changed the keycodes too. Now, there are keycodes above 255 and ez-adjust, in-start code changed too, but i dont know them yet. I attached my version, if you want to improve yours."
+I added his version of the script as lg_2012_commander.py 
+
+
 #### This software was developed with inspiration and/or information taken from:
 
 *   <http://python.org>
