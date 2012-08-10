@@ -31,8 +31,8 @@ You can avoid the black console window if you change the "py" file extension to 
 #### I added Benke's version of the script as lg_2012_commander.py 
 
 #### Ajay Ramaswamy says:
-quote
------
+quote:
+
 Hi,
 
 Thanks for your lgcommander script. I was playing around with my 2012 55LM6200
@@ -82,7 +82,7 @@ the search for the Service Menu codes.
 Thanks & best regards
 
 Ajay
--------
+
 unquote
 
 ## This software was developed with inspiration and/or information taken from:
