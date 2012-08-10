@@ -43,7 +43,7 @@ I ran that app thru unzip, dex2class and JD-GUI and found the file
 com/lge/tv/remoteapps/Base/RemoteKeyIndex.class contains these key mappings
 
 
-KEY_IDX_3D=400;
+`KEY_IDX_3D=400;
 KEY_IDX_ARROW_DOWN=2;
 KEY_IDX_ARROW_LEFT=3;
 KEY_IDX_ARROW_RIGHT=4;
@@ -72,7 +72,7 @@ KEY_IDX_RED=31;
 KEY_IDX_STOP=35;
 KEY_IDX_VOL_DOWN=25;
 KEY_IDX_VOL_UP=24;
-KEY_IDX_YELLOW=32;
+KEY_IDX_YELLOW=32;`
 
 I have tried all these codes on my TV and they work OK
 
