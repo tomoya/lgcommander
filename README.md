@@ -20,6 +20,8 @@ As long as you do not "factory reset" your TV, pairing key doesn't change. You c
 
 to suit your TV's actual pairing key.  This will eliminate the pairing key acquisition stage.
 
+## Problem with latest LG firmware:
+If you upgrade your TV firmware to 05.12.05 or later, "Tool Option 3" may be greyed out and you may not be able to make changes.  Please e-mail me if you have a solution to this problem (other than not upgrading).
 
 ## Windows users:
 You can avoid the black console window if you change the "py" file extension to "pyw".
