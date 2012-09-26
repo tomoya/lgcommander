@@ -25,7 +25,7 @@ If you upgrade your TV firmware to 05.12.05 or later, "Tool Option 3" may be gre
 #### "Quinny" says:
 >Thanks for LG Commander!
 >I've just managed to sort out the Options3 greyed out issue.
->Follow the instructions here: >http://www.avforums.com/forums/lg-forum/1651400-official-lg-lw550t-3d-led-thread-part-9-a.html
+>Follow the instructions here: http://www.avforums.com/forums/lg-forum/1651400-official-lg-lw550t-3d-led-thread-part-9-a.html
 
 ## Windows users:
 You can avoid the black console window if you change the "py" file extension to "pyw".
