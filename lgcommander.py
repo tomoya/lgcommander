@@ -49,7 +49,7 @@ def getip():
         except:
             i += 1
             sock.sendto( bytestoXmit, ( '239.255.255.250', 1900 ) )
-        if re.search('LGE', gotstr):
+        if re.search('LG', gotstr):
             ipaddress, _ = addressport
             found = True
         else:
