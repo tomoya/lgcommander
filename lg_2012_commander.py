@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import http.client
 from tkinter import *
 import xml.etree.ElementTree as etree
